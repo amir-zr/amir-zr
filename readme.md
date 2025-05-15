@@ -1,7 +1,7 @@
 # Hello 👋 I am Amir Ziari
 
 ## Full Stack Web Developer
-
+<img height="36" width="36" src="https://amirzr.dev/images/cover.png" alt="amir ziari" />
 - 🌍 I'm from Sunderland, UK
 - 📫 Reach me at [hello@amirzr.dev](mailto:hello@amirzr.dev)
 - 👨‍💻 Check out my portfolio at [MyPortfolio](http://amirzr.dev)
