@@ -15,23 +15,23 @@
 src="https://img.shields.io/badge/follow-%40amirzrdev-f97316?logo=x&style=for-the-badge&labelColor=0f0f0f" /></a> &nbsp;
 ### Skills
 
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/dart-colored.svg" alt="Dart" />
-</picture></a> &nbsp;
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/go-colored.svg" alt="Go" />
-</picture></a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
+</picture></a> &nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" />
 </picture></a> &nbsp;
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/php-colored.svg" alt="PHP" />
 </picture></a> &nbsp;
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/go-colored.svg" alt="Go" />
+</picture></a> &nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/python-colored.svg" alt="Python" />
 </picture></a> &nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" />
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/dart-colored.svg" alt="Dart" />
 </picture></a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/html5-colored.svg" alt="HTML5" />
