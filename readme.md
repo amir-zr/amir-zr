@@ -1,5 +1,6 @@
 # Hello 👋 I am Amir Ziari
 <img src="https://amirzr.dev/images/cover.png" alt="amir ziari" />
+
 ## Full Stack Web Developer
 
 - 🌍 I'm from Sunderland, UK
