@@ -1,7 +1,7 @@
 # Hello 👋 I am Amir Ziari
 
 ## Full Stack Web Developer
-<img src="https://amirzr.dev/images/cover.png" alt="amir ziari" />
+
 - 🌍 I'm from Sunderland, UK
 - 📫 Reach me at [hello@amirzr.dev](mailto:hello@amirzr.dev)
 - 👨‍💻 Check out my portfolio at [MyPortfolio](http://amirzr.dev)
@@ -9,6 +9,8 @@
 - 🌱 I'm currently learning Go
 - 💬 Ask me about MERN Stack
 - ⚡ Fun fact about me: I like Game, Movie, HipHop
+
+<img src="https://amirzr.dev/images/cover.png" alt="amir ziari" />
 
 <a href="https://www.x.com/amirzrdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/follow-%40amirzrdev-f97316?logo=x&style=for-the-badge&labelColor=0f0f0f" /></a> &nbsp;
